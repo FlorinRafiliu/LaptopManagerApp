@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+.navigation-bar {
+    width: 100%;
+    background-color: rgb(8, 8, 8);
+    color: #FFBF0E;
+    display: flex;
+    justify-content: right;
+    margin: 0;
+    padding: 0;
+}
+
+.navigation-bar ul {
+    display: flex;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    gap: 1rem;
+    padding: 1rem 2rem;
+}
+
+.navigation-bar a {
+    color: inherit;
+    text-decoration: none;
+    font-size: 1.5rem;
+}
+
+body {
+    margin: 0;
+}
