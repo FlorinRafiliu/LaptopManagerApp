@@ -47,6 +47,14 @@
     text-indent: 10px;
 }
 
+.labelForm select {
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: large;
+    margin-left: -15px;
+    text-indent: 10px;
+}
+
 .fileInput {
     display: flex;
 }

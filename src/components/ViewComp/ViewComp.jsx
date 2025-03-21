@@ -2,6 +2,11 @@ import CardComp from "../CardComp/CardComp";
 import styles from "./ViewComp.module.css";
 import FilterComp from "../FilterComp/FilterComp.jsx";
 
+import PieChart from "../Charts/PieChart.js";
+import BarChart from "../Charts/BarChart.js";
+import LineGraph from "../Charts/LineGraph.js";
+
+
 import { data  } from "../../data.js";
 import { useState, useEffect } from "react";
 
@@ -20,6 +25,11 @@ function ViewComp({appCallBack}) {
                 <div className={styles.grid}>
                     {elem}
                 </div>
+            </div>
+            <div className={styles.charts}>
+                <div><PieChart /></div>
+                <div><LineGraph /></div>
+                <div><BarChart /></div>
             </div>
         </div>
     );

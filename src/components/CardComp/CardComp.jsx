@@ -21,7 +21,8 @@ function CardComp({id, editCall, deleteCall}) {
     }
 
     function getType() {
-        const newData = data.sort((a, b) => a.price < b.price ? -1 : 1);
+        let newData = data.slice(0);
+        newData = newData.sort((a, b) => a.price < b.price ? -1 : 1);
         if(id === newData[0].id)
             return "Most affordable";
         if(id === newData[newData.length - 1].id)

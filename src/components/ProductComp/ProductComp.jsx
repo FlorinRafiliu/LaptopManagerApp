@@ -8,7 +8,6 @@ import { Link, useNavigate } from "react-router";
 
 function ProductComp({ id }) {
 
-    const navigate = useNavigate();
     const product = data[data.findIndex(e => e.id === id)];
 
     return (
@@ -21,7 +20,11 @@ function ProductComp({ id }) {
                 <hr/>
                 <div className={styles.right}>
                     <div className={styles.text} >Description: {product.description}</div>
+                    <div className={styles.text} >Brand: {product.brand}</div>
+                    <div className={styles.text} >Category: {product.category}</div>
+                    <div className={styles.text} >Year: {product.year}</div>
                     <div className={styles.text} >Price: {product.price}</div>
+
                     <Link to="/viewProduct">
                         <button className={styles.button} type="button">Back</button>
                     </Link>

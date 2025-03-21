@@ -9,10 +9,14 @@ import { useNavigate } from "react-router";
 
 function EditComp({id}) {
 
-    const [name, setName] = useState(data[data.findIndex(e => e.id === id)].name);
-    const [description, setDescription] = useState(data[data.findIndex(e => e.id === id)].description);
-    const [price, setPrice] = useState(data[data.findIndex(e => e.id === id)].price);
-    const [path, setPath] = useState(data[data.findIndex(e => e.id === id)].path);
+    const item = data[data.findIndex(e => e.id === id)];
+    const [name, setName] = useState(item.name);
+    const [description, setDescription] = useState(item.description);
+    const [price, setPrice] = useState(item.price);
+    const [path, setPath] = useState(item.path);
+    const [brand, setBrand] = useState(item.brand);
+    const [year, setYear] = useState(item.year);
+    const [category, setCategory] = useState(item.category);
     
     const navigate = useNavigate();
 
@@ -24,20 +28,21 @@ function EditComp({id}) {
             name: name, 
             description: description, 
             price: price, 
-            path: path
+            path: path,
+            brand: brand,
+            category: category,
+            year: year
         };
 
+        console.log("aici");
         navigate("../../viewProduct");
-
-        console.log(name);
-        console.log(price);
-        console.log(description);
+        console.log("aici1");
     }
 
     return (
         <div className={styles.main}>
             <form className={styles.addForm} onSubmit={handleSubmit}>
-            <label className={styles.labelForm}>
+                <label className={styles.labelForm}>
                     Product name
                     <input 
                         type="text"
@@ -45,6 +50,36 @@ function EditComp({id}) {
                         pattern="^[A-Za-z0-9\-\ ]{5,20}"
                         required
                         onChange={(e) => setName(e.target.value)}/>
+                </label>
+
+                <label className={styles.labelForm}>
+                    Brand
+                    <input 
+                        type="text"
+                        value={brand}
+                        pattern="^[A-Za-z0-9\-\ ]{5,20}"
+                        required
+                        onChange={(e) => setBrand(e.target.value)}/>
+                </label>
+
+                <label className={styles.labelForm}>
+                    Category
+                    <select value={category} onChange={(e) => setCategory(e.target.value)} required>
+                        <option value="">-</option>
+                        <option value="ultrabook">Ultrabook</option>
+                        <option value="gaming">Gaming</option>
+                        <option value="business">Business</option>
+                    </select>
+                </label>
+
+                <label className={styles.labelForm}>
+                    Year
+                    <input type="numeric"
+                        value={year}
+                        required
+                        pattern="[0-9]*"
+                        onChange={(e) => setYear(e.target.value)}    
+                    />
                 </label>
 
                 <label className={styles.labelForm}>

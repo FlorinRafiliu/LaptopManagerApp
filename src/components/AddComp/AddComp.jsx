@@ -12,22 +12,22 @@ function AddComp() {
     const [description, setDescription] = useState("");
     const [price, setPrice] = useState();
     const [path, setPath] = useState("No file chosen!");
+    const [brand, setBrand] = useState("");
+    const [year, setYear] = useState();
+    const [category, setCategory] = useState("");
 
     const navigate = useNavigate(); 
 
     function handleSubmit(e) {
         e.preventDefault();
 
-        let id;
-        if(data.length > 0)
-            id = data[data.length-1].id + 1;
-        else 
-            id = 0;
+        let id = data.map(e => e.id).reduce((ans, elem) => Math.max(ans, elem)) + 1;
 
-        data.push({id: id, name: name, description: description, price: price, path: path});
+        data.push({id: id, name: name, description: description, price: price, path: path, brand: brand, year:year, category: category});
 
         navigate("../viewProduct");
 
+        console.log(id);
         console.log(name);
         console.log(price);
         console.log(description);
@@ -61,6 +61,36 @@ function AddComp() {
                         pattern="^[A-Za-z0-9\-\ ]{5,20}"
                         required
                         onChange={(e) => setName(e.target.value)}/>
+                </label>
+
+                <label className={styles.labelForm}>
+                    Brand
+                    <input 
+                        type="text"
+                        value={brand}
+                        pattern="^[A-Za-z0-9\-\ ]{5,20}"
+                        required
+                        onChange={(e) => setBrand(e.target.value)}/>
+                </label>
+
+                <label className={styles.labelForm}>
+                    Category
+                    <select value={category} onChange={(e) => setCategory(e.target.value)} required>
+                        <option value="">-</option>
+                        <option value="ultrabook">Ultrabook</option>
+                        <option value="gaming">Gaming</option>
+                        <option value="business">Business</option>
+                    </select>
+                </label>
+
+                <label className={styles.labelForm}>
+                    Year
+                    <input type="numeric"
+                        value={year}
+                        required
+                        pattern="[0-9]*"
+                        onChange={(e) => setYear(e.target.value)}    
+                    />
                 </label>
 
                 <label className={styles.labelForm}>
