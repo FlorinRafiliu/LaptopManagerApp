@@ -34,9 +34,7 @@ function EditComp({id}) {
             year: year
         };
 
-        console.log("aici");
         navigate("../../viewProduct");
-        console.log("aici1");
     }
 
     return (
