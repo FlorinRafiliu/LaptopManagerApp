@@ -19,6 +19,16 @@
     margin-left: -15px;
 }
 
+.filterForm select {
+    border: 2px solid black;
+    border-radius: 20px;
+    font-size: large;
+    margin-left: -15px;
+    text-indent: 10px;
+    width: 50%;
+    margin-left: 15px;
+}
+
 .button {
     border-radius: 20px;
     border: 2px solid black;

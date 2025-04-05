@@ -11,6 +11,7 @@
     "react": "^19.0.0",
     "react-chartjs-2": "^5.3.0",
     "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
     "react-router": "^7.3.0",
     "react-router-dom": "^7.3.0",
     "react-scripts": "5.0.1",
@@ -21,7 +22,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "eject": "react-scripts eject",
-    "test": "jest"
+    "test": "jest --config jest.config.js"
   },
   "eslintConfig": {
     "extends": [
@@ -46,10 +47,12 @@
     "@babel/preset-env": "^7.26.9",
     "@babel/preset-react": "^7.26.3",
     "@testing-library/jest-dom": "^6.6.3",
+    "babel-jest": "^29.7.0",
     "babel-loader": "^10.0.0",
-    "jest": "^27.5.1",
+    "jest": "^29.7.0",
     "jest-axe": "^10.0.0",
     "jest-environment-jsdom": "^29.7.0",
+    "react-test-renderer": "^19.0.0",
     "webpack": "^5.98.0"
   }
 }

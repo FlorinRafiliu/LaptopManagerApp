@@ -2,39 +2,50 @@ import React from "react";
 
 import styles from "./EditComp.module.css"
 
-import {data} from "../../data.js";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { Link } from "react-router";
 import { useNavigate } from "react-router";
 
-function EditComp({id}) {
+import Data from "../../repository/repository.js";
+import {toast} from "react-hot-toast";
 
-    const item = data[data.findIndex(e => e.id === id)];
-    const [name, setName] = useState(item.name);
-    const [description, setDescription] = useState(item.description);
-    const [price, setPrice] = useState(item.price);
-    const [path, setPath] = useState(item.path);
-    const [brand, setBrand] = useState(item.brand);
-    const [year, setYear] = useState(item.year);
-    const [category, setCategory] = useState(item.category);
+function EditComp({id}) {
+    const [name, setName] = useState(null);
+    const [description, setDescription] = useState(null);
+    const [price, setPrice] = useState(null);
+    const [path, setPath] = useState(null);
+    const [brand, setBrand] = useState(null);
+    const [year, setYear] = useState(null);
+    const [category, setCategory] = useState(null);
     
+    useEffect(() => {
+        Data().getLaptopById(id).then(item => {
+            setName(item.name);
+            setDescription(item.description);
+            setPrice(item.price);
+            setPath(item.path);
+            setBrand(item.brand);
+            setYear(item.year);
+            setCategory(item.category);
+        });
+    }, []);
+
     const navigate = useNavigate();
 
     function handleSubmit(e) {
         e.preventDefault();
 
-        data[data.findIndex(e => e.id === id)] = {
-            id: id,
-            name: name, 
-            description: description, 
-            price: price, 
-            path: path,
-            brand: brand,
-            category: category,
-            year: year
-        };
-
-        navigate("../../viewProduct");
+        Data().editLaptop( id, 
+            {
+                name: name, 
+                description: description, 
+                price: price, 
+                path: path,
+                brand: brand,
+                category: category,
+                year: year
+            }
+        ).then(response => {if(response.status === 200) {navigate("../viewProduct"); toast.success("Successful Update")} else {navigate("../viewProduct"); toast.error("Failed Update!")}});
     }
 
     return (

@@ -1,43 +1,28 @@
 import styles from "./CardComp.module.css"
-import { data } from "../../data";
+import Data from "../../repository/repository";
+
 import { Link } from "react-router";
 
-function CardComp({id, editCall, deleteCall}) {
-
-    const name = data[data.findIndex(e => e.id === id)].name;
-    const path = data[data.findIndex(e => e.id === id)].path;
-    const price = data[data.findIndex(e => e.id === id)].price;
-
-    const text = getType();
+const getType = require("../../service/Service")[2];
+const deleteService = require("../../service/Service")[3];
+function CardComp({card, editCall, deleteCall}) {
+    //const text = getType(card.id, data);
+    const text = "";
 
     function deleteHandler() {
-        data.splice(data.findIndex(e => e.id === id), 1);
-        deleteCall(data);
-        console.log(data.length);
+        Data().deleteLaptop(card.id).then(response => { if(response.ok) deleteCall("")});
     }
 
     function editHandler() {
-        editCall(id);
-    }
-
-    function getType() {
-        let newData = data.slice(0);
-        newData = newData.sort((a, b) => a.price < b.price ? -1 : 1);
-        if(id === newData[0].id)
-            return "Most affordable";
-        if(id === newData[newData.length - 1].id)
-            return "Most expensive";
-        if(id === newData[Math.floor(newData.length / 2)].id)
-            return "Our recommandation";
-        return "";
+        editCall(card.id);
     }
 
     return (
         <div className={styles.main}>
-            <Link className={styles.link} onClick={editHandler} to={"../product" + id.toString()}>
-                <img className={styles.image} src={require("../../photos/" + path)} alt="My Image" />
-                <div>{name}</div>
-                <div>{price} $</div>
+            <Link className={styles.link} onClick={editHandler} to={"../product/" + card.id.toString()}>
+                <img className={styles.image} src={require("../../photos/" + card.path)} alt="My Image" />
+                <div>{card.name}</div>
+                <div>{card.price} $</div>
                 <div className={styles.statistic}>{text}</div>
             </Link>
             <div style={{display: "flex", flexDirection: "row"}}>

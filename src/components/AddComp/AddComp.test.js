@@ -1,6 +1,7 @@
+
 test('add new data', () => {
     expect(testAdd()).toBe(true);
-  });
+});
   
   
 function testAdd() {

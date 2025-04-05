@@ -6,12 +6,6 @@ import {data} from "../../data.js";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router";
 
-import Data from "../../repository/repository.js";
-
-import {toast} from "react-hot-toast";
-
-const addService = require("../../service/Service.js")[0];
-
 function AddComp() {
 
     const [name, setName] = useState("");
@@ -27,26 +21,17 @@ function AddComp() {
     function handleSubmit(e) {
         e.preventDefault();
 
-        Data().addLaptop(
-            {
-                name: name, 
-                description: description, 
-                price: price, 
-                path: path, 
-                brand: brand, 
-                year:year, 
-                category: category
-            }).then(response => 
-                { 
-                    if(response.status === 200) {
-                        navigate("../viewProduct"); 
-                        toast.success("Successful Add")
-                    } else {
-                        navigate("../viewProduct"); 
-                        toast.error("Failed Add!")
-                    }
-                }
-            ); 
+        let id = data.map(e => e.id).reduce((ans, elem) => Math.max(ans, elem)) + 1;
+
+        data.push({id: id, name: name, description: description, price: price, path: path, brand: brand, year:year, category: category});
+
+        navigate("../viewProduct");
+
+        console.log(id);
+        console.log(name);
+        console.log(price);
+        console.log(description);
+        console.log(path);
     }
 
     // function getTag() {

@@ -2,24 +2,31 @@ import { useState } from "react";
 import styles from "./FilterComp.module.css";
 import { data } from "../../data";
 
+const filterByNameService = require("../../service/Service")[5];
+const sortByNameService = require("../../service/Service")[6];
+const sortByPriceService = require("../../service/Service")[7];
+
 function FilterComp({callBack}) {
 
     const [searchValue, setSearch] = useState("");
+    const [category, setCategory] = useState("");
 
     function updateHandler(val) {
-        setSearch(val)
-        const newData = data.filter(elem => elem.name.match(val));
-        callBack(newData);
+        setSearch(val);
+        callBack(val);
     }
 
     function sortNameHandler() {
-        const newData = data.sort((a, b) => a.name > b.name ? 1 : -1);
-        callBack(newData);  
+        callBack("sortedByName");  
     }
 
     function sortPriceHandler() {
-        const newData = data.sort((a, b) => a.price > b.price ? 1 : -1);
-        callBack(newData);  
+       callBack("sortedByPrice");
+    }
+
+    function filterByCategory(category) {
+        setCategory(category);
+        callBack(category);
     }
 
     return (
@@ -34,6 +41,12 @@ function FilterComp({callBack}) {
             </label>
             <button type="button" onClick={sortNameHandler} className={styles.button}>Filter by name</button>
             <button type="button" onClick={sortPriceHandler} className={styles.button}>Filter by price</button>
+            <select value={category} onChange={(e) => filterByCategory(e.target.value)}>
+                    <option value="">-</option>
+                    <option value="ultrabook">Ultrabook</option>
+                    <option value="gaming">Gaming</option>
+                    <option value="business">Business</option>
+            </select>
         </form>
     );
 };
