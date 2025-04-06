@@ -10,7 +10,7 @@ import {
     Title
 } from "chart.js";
 
-import { data } from "../../data.js";
+import { localData } from "../../data.js";
 
 ChartJS.register(Tooltip, Legend, CategoryScale, LinearScale, PointElement, LineElement, Title);
 
@@ -22,13 +22,13 @@ function LineGraph() {
         datasets:[{label: "Nr of units",data: [], borderColor: "rgb(75, 192, 192"},],
     };
 
-    mockData.labels = data.map(e => e.year)
+    mockData.labels = localData.map(e => e.year)
                           .reduce((ans, elem) => {if(!ans.some(e => e == elem))return [...ans, elem]; return ans}, [])
                           .sort((a, b) => a < b ? -1 : 1);
     mockData.datasets[0].data = new Array(mockData.labels.length).fill(0);
 
-    for(let i = 0; i < data.length; i++) {
-        let item = data[i];
+    for(let i = 0; i < localData.length; i++) {
+        let item = localData[i];
         const index = mockData.labels.findIndex(e => e == item.year);
         mockData.datasets[0].data[index] += 1;
     }

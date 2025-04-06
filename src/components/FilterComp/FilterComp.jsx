@@ -1,15 +1,16 @@
 import { useState } from "react";
 import styles from "./FilterComp.module.css";
-import { data } from "../../data";
-
-const filterByNameService = require("../../service/Service")[5];
-const sortByNameService = require("../../service/Service")[6];
-const sortByPriceService = require("../../service/Service")[7];
+import {localData} from "../../data";
+import BarChart from "../Charts/BarChart";
+import PieChart from "../Charts/PieChart";
+import LineGraph from "../Charts/LineGraph";
+import FileUploadDownload from "../FileUploadDownload/FileUploadDownload";
 
 function FilterComp({callBack}) {
 
     const [searchValue, setSearch] = useState("");
     const [category, setCategory] = useState("");
+    const [isInserting, setIsInserting] = useState(false);
 
     function updateHandler(val) {
         setSearch(val);
@@ -47,6 +48,11 @@ function FilterComp({callBack}) {
                     <option value="gaming">Gaming</option>
                     <option value="business">Business</option>
             </select>
+
+            <div className={styles.charts}>
+                <div><PieChart /></div>
+                <FileUploadDownload />
+            </div>
         </form>
     );
 };

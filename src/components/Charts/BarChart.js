@@ -9,7 +9,7 @@ import {
     Title
 } from "chart.js";
 
-import { data } from "../../data.js";
+import { localData } from "../../data.js";
 
 ChartJS.register(Tooltip, Legend, CategoryScale, LinearScale, BarElement, Title);
 
@@ -35,13 +35,13 @@ function BarChart() {
         },],
     };
 
-    mockData.labels = data.map(e => e.category)
+    mockData.labels = localData.map(e => e.category)
                           .reduce((ans, elem) => {if(!ans.some(e => e == elem))return [...ans, elem]; return ans}, [])
 
     mockData.datasets[0].data = new Array(mockData.labels.length).fill(0);
 
-    for(let i = 0; i < data.length; i++) {
-        let item = data[i];
+    for(let i = 0; i < localData.length; i++) {
+        let item = localData[i];
         const index = mockData.labels.findIndex(e => e == item.category);
         mockData.datasets[0].data[index] += 1;
     }

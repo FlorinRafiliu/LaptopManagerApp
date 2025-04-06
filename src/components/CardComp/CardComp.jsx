@@ -2,15 +2,26 @@ import styles from "./CardComp.module.css"
 import Data from "../../repository/repository";
 
 import { Link } from "react-router";
+import { deleteOffline } from "../../service/serviceOffline";
 
 const getType = require("../../service/Service")[2];
 const deleteService = require("../../service/Service")[3];
-function CardComp({card, editCall, deleteCall}) {
+
+function CardComp({ref, isOnline, isServerUp, card, editCall, deleteCall}) {
     //const text = getType(card.id, data);
     const text = "";
 
     function deleteHandler() {
-        Data().deleteLaptop(card.id).then(response => { if(response.ok) deleteCall("")});
+        if(isOnline && isServerUp) {
+            Data().deleteLaptop(card.id)
+            .then(response => { if(response.ok) deleteCall("")})
+            .catch(error => {
+               console.log(error);
+            });
+        } else {
+            deleteOffline(card.id);
+            deleteCall("");
+        }
     }
 
     function editHandler() {
@@ -18,7 +29,7 @@ function CardComp({card, editCall, deleteCall}) {
     }
 
     return (
-        <div className={styles.main}>
+        <div ref={ref} className={styles.main}>
             <Link className={styles.link} onClick={editHandler} to={"../product/" + card.id.toString()}>
                 <img className={styles.image} src={require("../../photos/" + card.path)} alt="My Image" />
                 <div>{card.name}</div>

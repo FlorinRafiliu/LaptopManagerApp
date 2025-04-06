@@ -2,7 +2,6 @@ import React from "react";
 
 import styles from "./AddComp.module.css";
 
-import {data} from "../../data.js";
 import { useState } from "react";
 import { Link, useNavigate } from "react-router";
 
@@ -10,9 +9,11 @@ import Data from "../../repository/repository.js";
 
 import {toast} from "react-hot-toast";
 
+import { addOffline } from "../../service/serviceOffline.js";
+
 const addService = require("../../service/Service.js")[0];
 
-function AddComp() {
+function AddComp({isOnline, isServerUp}) {
 
     const [name, setName] = useState("");
     const [description, setDescription] = useState("");
@@ -27,8 +28,31 @@ function AddComp() {
     function handleSubmit(e) {
         e.preventDefault();
 
-        Data().addLaptop(
-            {
+        if(isServerUp && isOnline) {
+            Data().addLaptop(
+                {
+                    name: name, 
+                    description: description, 
+                    price: price, 
+                    path: path, 
+                    brand: brand, 
+                    year:year, 
+                    category: category
+                }).then(response => 
+                    { 
+                        if(response.status === 200) {
+                            navigate("../viewProduct"); 
+                            toast.success("Successful Add")
+                        } else {
+                            navigate("../viewProduct"); 
+                            toast.error("Failed Add!")
+                        }
+                    }
+                ).catch(error => {
+                    console.log(error);
+                });
+        } else {
+            addOffline({
                 name: name, 
                 description: description, 
                 price: price, 
@@ -36,17 +60,9 @@ function AddComp() {
                 brand: brand, 
                 year:year, 
                 category: category
-            }).then(response => 
-                { 
-                    if(response.status === 200) {
-                        navigate("../viewProduct"); 
-                        toast.success("Successful Add")
-                    } else {
-                        navigate("../viewProduct"); 
-                        toast.error("Failed Add!")
-                    }
-                }
-            ); 
+            });
+            navigate("../viewProduct"); 
+        }
     }
 
     // function getTag() {

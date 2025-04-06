@@ -13,3 +13,21 @@ export function getQueuedOperations() {
 export function clearQueue() {
   localStorage.removeItem(QUEUE_KEY);
 }
+
+export async function syncQueueWithServer() {
+    const queue = getQueuedOperations();
+    if (queue.length === 0) return;
+  
+    try {
+      for (const op of queue) {
+        await fetch('http://localhost:8080/laptops/sync', {
+          method: 'POST',
+          body: JSON.stringify(op),
+          headers: { 'Content-Type': 'application/json' },
+        });
+      }
+      clearQueue();
+    } catch (err) {
+      console.error("Failed to sync", err);
+    }
+  }

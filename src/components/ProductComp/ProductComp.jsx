@@ -5,13 +5,18 @@ import styles from "./ProductComp.module.css"
 import { useState } from "react";
 import { Link, useNavigate } from "react-router";
 import Data from "../../repository/repository.js";
+import { getLaptopByIdOffline } from "../../service/serviceOffline.js";
 
-function ProductComp({ id }) {
+function ProductComp({ id, isOnline, isServerUp }) {
 
     const [product, setProduct] = useState({path : "asus.jpg"});
 
     useEffect(() => {
-        Data().getLaptopById(id).then(data => setProduct(data));
+        if(isOnline && isServerUp)
+            Data().getLaptopById(id).then(data => setProduct(data));
+        else {
+            setProduct(getLaptopByIdOffline(id));
+        }
     });
 
     return (

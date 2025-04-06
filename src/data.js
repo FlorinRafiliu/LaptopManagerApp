@@ -1,4 +1,4 @@
-export const data = [
+export let localData = [
     {
         id: 0,
         name: "Macbook Air 13",

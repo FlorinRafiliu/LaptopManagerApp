@@ -8,6 +8,8 @@ import { useNavigate } from "react-router";
 
 import Data from "../../repository/repository.js";
 import {toast} from "react-hot-toast";
+import { editOffline } from "../../service/serviceOffline.js";
+import { getLaptopByIdOffline } from "../../service/serviceOffline.js";
 
 function EditComp({id}) {
     const [name, setName] = useState(null);
@@ -20,6 +22,15 @@ function EditComp({id}) {
     
     useEffect(() => {
         Data().getLaptopById(id).then(item => {
+            setName(item.name);
+            setDescription(item.description);
+            setPrice(item.price);
+            setPath(item.path);
+            setBrand(item.brand);
+            setYear(item.year);
+            setCategory(item.category);
+        }).catch(error => {
+            let item = getLaptopByIdOffline(id);
             setName(item.name);
             setDescription(item.description);
             setPrice(item.price);
@@ -45,7 +56,19 @@ function EditComp({id}) {
                 category: category,
                 year: year
             }
-        ).then(response => {if(response.status === 200) {navigate("../viewProduct"); toast.success("Successful Update")} else {navigate("../viewProduct"); toast.error("Failed Update!")}});
+        ).then(response => {
+            if(response.status === 200) 
+            {
+                navigate("../viewProduct"); 
+                toast.success("Successful Update");
+            } else {
+                navigate("../viewProduct");
+                toast.error("Failed Update!");
+            }
+        }).catch(error => {
+            editOffline(id, name, description, price, path, brand, category, year);
+            navigate("../viewProduct"); 
+        }); ;
     }
 
     return (
