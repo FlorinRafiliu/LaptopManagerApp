@@ -25,4 +25,6 @@ At present, data is not stored in a database; however, database integration will
   - When the last item is displayed, the next page of data is automatically fetched from the backend.
 - Upload and download file system;
 - Backend Architecture: Controller-Service-Repository pattern.
+- Unit Testing for backend API requests;
+- Validation of data;
 
