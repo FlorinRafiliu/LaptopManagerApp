@@ -5,7 +5,7 @@
 LaptopManagerApp is a web application developed for the *Programming and Design System* course at @Babes-Bolyai University. 
 The app is designed for managing a database of laptops, offering a user-friendly interface and a robust backend.
 
-##Tech Stack:
+## Tech Stack:
 - Frontend: React (VS Code)
 - Backend: Spring Boot (IntelliJ IDEA)
 At present, data is not stored in a database; however, database integration will be implemented in the near future.
