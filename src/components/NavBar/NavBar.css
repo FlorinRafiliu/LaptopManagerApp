@@ -12,6 +12,10 @@
     padding: 0;
 }
 
+.navigation-bar div {
+    cursor: pointer;
+}
+
 .navigation-bar ul {
     display: flex;
     align-items: center;

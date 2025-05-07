@@ -63,7 +63,7 @@ function PieChart() {
     //     Data().getLaptops().then(data => setLocalData(JSON.parse(JSON.stringify(data))));
     // }, [])
 
-    for(let i = 0; i < localData.length; i++) {
+    for(let i = 0; i < localData?.length; i++) {
         let item = localData[i];
         const index = mockData.labels.findIndex(e => e === item.brand);
         if(index != -1) {

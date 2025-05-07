@@ -14,6 +14,7 @@ import useLaptopSearch from "../InfiniteScroll/useLaptopSearch.js";
 
 import Data from "../../repository/repository.js";
 import { deepCopy, filterByNameOffline, getOfflineData, sortByNameOffline, sortByPriceOffline } from "../../service/serviceOffline.js";
+import { useNavigate } from "react-router";
 
 function ViewComp({isOnline, isServerUp, appCallBack}) {
     
@@ -21,12 +22,21 @@ function ViewComp({isOnline, isServerUp, appCallBack}) {
     const [query, setQuery] = useState("");
     const [queryId, setQueryId] = useState(0);
 
+    useEffect(() => {
+        const user = JSON.parse(localStorage.getItem("user") || null);
+        if(user === null) {
+            navigate("../login");
+        }
+    }, []);
+
     const {
         laptops,
         loading,
         setLoading,
         setLaptops
     } = useLaptopSearch(pageNumber, query, queryId);
+
+    const navigate = useNavigate();
 
     const observer = useRef();
     const lastBookElementRef = useCallback(node => {
@@ -48,7 +58,6 @@ function ViewComp({isOnline, isServerUp, appCallBack}) {
 
     useEffect(() => {
         if(!(isOnline && isServerUp)) {
-            console.log("aici");
             setLaptops(JSON.parse(JSON.stringify(getOfflineData())));
         }
     }, [isOnline, isServerUp]);

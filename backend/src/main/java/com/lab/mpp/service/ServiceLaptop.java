@@ -2,20 +2,29 @@ package com.lab.mpp.service;
 
 import com.lab.mpp.domain.Laptop;
 import com.lab.mpp.repository.LaptopRepository;
+import com.lab.mpp.repository.LaptopRepositoryDB;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import java.util.List;
 
+//@Service
 public class ServiceLaptop {
 
     private LaptopRepository laptopRepository;
+//    @Autowired
+//    private LaptopRepositoryDB laptopRepository;
+
     public ServiceLaptop(LaptopRepository laptopRepository) {
         this.laptopRepository = laptopRepository;
     }
 
     public List<Laptop> getData(int page) {
+        // return laptopRepository.findAll();
         return laptopRepository.getData().subList((page-1) * 10, Math.min(laptopRepository.getData().size(), page * 10));
     }
     public List<Laptop> getData() {
+        // return laptopRepository.findAll();
         return laptopRepository.getData();
     }
 

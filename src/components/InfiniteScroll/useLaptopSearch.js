@@ -18,10 +18,15 @@ export default function useLaptopSearch(pageNumber, query, queryId) {
   useEffect(() => {
     setLoading(true)
 
+    const user = JSON.parse(localStorage.getItem("user"));
+
     let cancel
     axios({
       method: 'GET',
       url: `http://localhost:8080/laptops/params?filter=${query}&page=${pageNumber}`,
+      headers: {
+        Authorization: `${user.username}`,
+      },
       cancelToken: new axios.CancelToken(c => cancel = c)
     }).then(res => {
       setLaptops(prevLaptops => {

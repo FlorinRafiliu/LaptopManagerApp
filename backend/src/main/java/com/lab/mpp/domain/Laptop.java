@@ -1,11 +1,20 @@
 package com.lab.mpp.domain;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
+import com.fasterxml.jackson.annotation.JsonIgnore;
+import jakarta.persistence.*;
 
+import java.util.Set;
+
+@Entity
+@Table(name ="Laptop",indexes = @Index(name = "year_index", columnList = "year"))
 public class Laptop {
-    private static int nextID = 0;
-    public int id;
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    public Integer id;
+
+    @OneToMany(mappedBy = "laptop", fetch = FetchType.LAZY)
+    public Set <WarehouseLaptop> warehouses;
+
     public String name;
     public String brand;
     public String category;
@@ -14,8 +23,9 @@ public class Laptop {
     public int price;
     public String path;
 
+    protected Laptop() { }
+
     public Laptop(String name, String brand, String category, String description, int year, int price, String path) {
-        this.id = nextID++;
         this.name = name;
         this.brand = brand;
         this.category = category;

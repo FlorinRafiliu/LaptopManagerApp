@@ -33,7 +33,7 @@ function FilterComp({callBack}) {
     return (
         <form className={styles.filterForm}>
             <label>
-                Search
+                Search <br/>
                 <input
                     type="text"
                     value={searchValue}
@@ -50,7 +50,7 @@ function FilterComp({callBack}) {
             </select>
 
             <div className={styles.charts}>
-                <div><PieChart /></div>
+                {/* <div><PieChart /></div> */}
                 <FileUploadDownload />
             </div>
         </form>

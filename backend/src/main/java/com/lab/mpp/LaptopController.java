@@ -1,10 +1,17 @@
 package com.lab.mpp;
 
+import com.fasterxml.jackson.databind.ObjectMapper;
 import com.lab.mpp.Validator;
 import com.lab.mpp.domain.Laptop;
+import com.lab.mpp.domain.LaptopDTO;
+import com.lab.mpp.domain.LogOperation;
 import com.lab.mpp.domain.Operation;
 import com.lab.mpp.repository.LaptopRepository;
+import com.lab.mpp.repository.LaptopRepositoryDB;
+import com.lab.mpp.repository.LogOperationRepository;
+import com.lab.mpp.service.LogOperationService;
 import com.lab.mpp.service.ServiceLaptop;
+import com.lab.mpp.service.ServiceLaptopDB;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -14,6 +21,7 @@ import org.springframework.web.bind.annotation.*;
 import org.springframework.web.multipart.MultipartFile;
 
 import java.io.InputStream;
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
@@ -36,21 +44,21 @@ import static com.lab.mpp.Validator.validateLaptop;
 @RequestMapping("/laptops")
 public class LaptopController {
 
-    private List <Laptop> data;
-    private ServiceLaptop serviceLaptop;
+//    private List <Laptop> data;
+//    private ServiceLaptop serviceLaptop;
     private static final String UPLOAD_DIR = "uploads";
 
     @Autowired
     private SimpMessagingTemplate messagingTemplate;
     private boolean isStreaming = false;
 
-    public LaptopController() {
-        super();
+    private ServiceLaptopDB serviceLaptop;
+    private LogOperationService logOperationService;
 
-        LaptopRepository laptopRepository = new LaptopRepository();
-        laptopRepository.generateRandomData(400);
-
-        this.serviceLaptop = new ServiceLaptop(laptopRepository);
+    @Autowired
+    public LaptopController(ServiceLaptopDB serviceLaptop, LogOperationService logOperationService) {
+        this.serviceLaptop = serviceLaptop;
+        this.logOperationService = logOperationService;
     }
 
     @PostMapping("/upload")
@@ -105,75 +113,73 @@ public class LaptopController {
         isStreaming = false;
     }
 
+    @GetMapping("/year")
+    public List<Integer> getId(@RequestParam int year) {
+//        List<Integer> list = new ArrayList<>();
+//        list.add(1);
+//        list.add(1);
+//        list.add(1);
+//        return list;
+        return serviceLaptop.getIds(year);
+    }
+
     @GetMapping("/params")
-    public List<Laptop> getData(@RequestParam String filter, @RequestParam int page) {
+    public List<LaptopDTO> getData(@RequestParam String filter, @RequestParam int page) {
+//        @RequestHeader("Authorization") String username
+//        LogOperation log = new LogOperation(username, "READ", LocalDateTime.now());
+//        logOperationService.addLog(log);
+
         if(filter.equals("sortedByPrice")) {
-            return serviceLaptop.getDataSortedByPrice(page);
+            return serviceLaptop.getDataSortedByPrice(page).stream().map(LaptopDTO::new).toList();
         } else if(filter.equals("sortedByName")) {
-            return serviceLaptop.getDataSortedByName(page);
+            return serviceLaptop.getDataSortedByName(page).stream().map(LaptopDTO::new).toList();
         } else if(filter.isEmpty()) {
-            return serviceLaptop.getData(page);
+            return serviceLaptop.getData(page).stream().map(LaptopDTO::new).toList();
         } else if(filter.equals("business") || filter.equals("gaming") || filter.equals("ultrabook")) {
-            return serviceLaptop.getDataByCategory(page, filter);
+            return serviceLaptop.getDataByCategory(page, filter).stream().map(LaptopDTO::new).toList();
         } else {
-            return serviceLaptop.getDataFiltered(page, filter);
+            return serviceLaptop.getDataFiltered(page, filter).stream().map(LaptopDTO::new).toList();
         }
     }
 
-//
-//    @GetMapping("/sortedByPrice")
-//    public List<Laptop> getSortedByPrice() {
-//        return data.stream().sorted((a, b) -> a.price < b.price ? -1 : 1).toList();
-//    }
-//
-//    @GetMapping("/page={page}")
-//    public List<Laptop> getPage(@PathVariable int page) {
-//        return data.subList((page - 1) * 10, Math.min(data.size(), page * 10));
-//    }
-//
-//    @GetMapping("/sortedByName")
-//    public List<Laptop> getSortedByName() {
-//        return data.stream().sorted((a, b) -> a.name.compareTo(b.name)).toList();
-//    }
-//
-//    @GetMapping("/filteredByName={val}")
-//    public List<Laptop> getSortedByName(@PathVariable String val) {
-//        return data.stream().filter(laptop -> laptop.name.contains(val)).toList();
-//    }
-//
-//    @GetMapping("/filteredByCategory={val}")
-//    public List<Laptop> getFilteredByCategory(@PathVariable String val) {
-//        return data.stream().filter(laptop -> laptop.category.equals(val)).toList();
-//    }
-//
     @GetMapping
     @ResponseStatus(value = HttpStatus.OK)
-    public List<Laptop> get() {
-        return serviceLaptop.getData();
+    public List<LaptopDTO> get() {
+        return serviceLaptop.getData().stream().map(LaptopDTO::new).toList();
     }
 
     @GetMapping("/{id}")
-    public Laptop getLaptopById(@PathVariable int id) {
-        return serviceLaptop.getDataById(id);
+    public LaptopDTO getLaptopById(@PathVariable int id) {
+        return new LaptopDTO(serviceLaptop.getDataById(Long.valueOf(id)));
     }
 
     @PatchMapping("/{id}")
-    public ResponseEntity<Void> updateLaptop(@PathVariable int id, @RequestBody Laptop newLaptop) {
+    public ResponseEntity<Void> updateLaptop(@PathVariable int id, @RequestBody Laptop newLaptop, @RequestHeader("Authorization") String username) {
+
+        LogOperation log = new LogOperation(username, "UPDATE", LocalDateTime.now());
+        logOperationService.addLog(log);
+
         if(!validateLaptop(newLaptop))
-            return new ResponseEntity<>(HttpStatus.NOT_MODIFIED);
-        if(serviceLaptop.updateData(id, newLaptop))
+            return new ResponseEntity<>(HttpStatus.OK);
+        if(serviceLaptop.updateData((long) id, newLaptop))
             return new ResponseEntity<>(HttpStatus.OK);
         return new ResponseEntity<>(HttpStatus.NOT_MODIFIED);
     }
 
     @DeleteMapping("/{id}")
     @ResponseStatus(value = HttpStatus.NO_CONTENT)
-    public void deleteLaptop(@PathVariable int id) {
-        serviceLaptop.deleteData(id);
+    public void deleteLaptop(@PathVariable int id, @RequestHeader("Authorization") String username) {
+        LogOperation log = new LogOperation(username, "DELETE", LocalDateTime.now());
+        logOperationService.addLog(log);
+
+        serviceLaptop.deleteData((long) id);
     }
 
     @PostMapping
-    public ResponseEntity<Void> add(@RequestBody Laptop laptop) {
+    public ResponseEntity<Void> add(@RequestBody Laptop laptop, @RequestHeader("Authorization") String username) {
+        LogOperation log = new LogOperation(username, "CREATE", LocalDateTime.now());
+        logOperationService.addLog(log);
+
         if(Validator.validateLaptop(laptop)) {
             serviceLaptop.addData(laptop);
             return new ResponseEntity<>(HttpStatus.OK);
@@ -197,10 +203,10 @@ public class LaptopController {
                     ((String) payload.get("path"))
             ));
         } else if(type.equals("delete")) {
-            serviceLaptop.deleteData((int) payload.get("id"));
+            serviceLaptop.deleteData((long) payload.get("id"));
         } else if(type.equals("edit")) {
             System.out.println("aici");
-            serviceLaptop.updateData((int) payload.get("id"), new Laptop(
+            serviceLaptop.updateData((long) payload.get("id"), new Laptop(
                     ((String) payload.get("name")),
                     ((String) payload.get("brand")),
                     ((String) payload.get("category")),

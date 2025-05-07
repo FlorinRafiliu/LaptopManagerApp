@@ -13,11 +13,14 @@ function ProductComp({ id, isOnline, isServerUp }) {
 
     useEffect(() => {
         if(isOnline && isServerUp)
-            Data().getLaptopById(id).then(data => setProduct(data));
+            Data().getLaptopById(id).then(data => {
+                setProduct(data);
+                console.log(data?.warehouses.map(wh => wh.name).join(", "));
+            });
         else {
             setProduct(getLaptopByIdOffline(id));
         }
-    });
+    }, []);
 
     return (
         <div className={styles.main}>
@@ -33,9 +36,12 @@ function ProductComp({ id, isOnline, isServerUp }) {
                     <div className={styles.text} >Category: {product?.category}</div>
                     <div className={styles.text} >Year: {product?.year}</div>
                     <div className={styles.text} >Price: {product?.price}</div>
-
+                    <div className={styles.text} >Available: {product?.warehouses?.map(wh => wh.name).join(", ")} </div>
                     <Link to="/viewProduct">
                         <button className={styles.button} type="button">Back</button>
+                    </Link>
+                    <Link to={`../order/${id}`}>
+                        <button className={styles.button} type="button">Order</button>
                     </Link>
                 </div>
             </div>  
