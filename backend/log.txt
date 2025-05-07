@@ -1,0 +1,2207 @@
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:46:13.957264400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:46:15.894369900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:46:15.904370400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:06.125794300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:06.125794300
+Username: florinrafiliu; Action: CREATE; Date:2025-05-03T18:52:17.913876300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:17.958004400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:17.962206100
+Username: florinrafiliu; Action: DELETE; Date:2025-05-03T18:52:20.703430400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:20.755937900
+Username: florinrafiliu; Action: UPDATE; Date:2025-05-03T18:52:25.785522200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:25.798380400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:29.617158500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:31.749084700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:33.592675700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:33.792570100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:34.165159300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:34.803212800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:35.143343100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:35.255513400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:35.362427300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:35.708406300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.364116
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.392071200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.422296800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.448390900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.469593900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.492873200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.516220500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.537268
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.557484300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.580822200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.602068100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.623692600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.643382300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.664572100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.682888700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.705039
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.727163900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.748387400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.769539500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:36.779777
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.204156800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.231147100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.251391
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.273711800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.291731
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.314077100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.336505300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.359502500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.384934200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.408956300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.429210700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.455486600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.480868100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.499804
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.519115200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.539131200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.560446100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.579581800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.597900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.619856400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.645337800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.668397
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.693541400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.719985100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.743889300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.770698100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.795754900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.817838300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.854693600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.883661
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.910791300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.932597900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.955336100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:37.977438800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.000679900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.023651700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.056289600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.085665700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.115877700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.150247200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.179570700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.210472900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.243884500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.267572900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.291665600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.322024900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.346188400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.370427200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.399904500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.427139600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.450773400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.480812
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.504741600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.534492500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.557222700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.588258
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.612703400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.637586900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.660784100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.686623900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.712055100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.737731300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.758156300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.778512700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.800804800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.820749700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.844687800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.865841
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.887533300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.918893500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.946387600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:38.977074900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.001059400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.024774900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.048593100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.072830200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.098330400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.117732400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.153177500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.177070900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.206932
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.234227500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.283691600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.309665
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.347502400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.373406300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.412305800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.437839800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.473841500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.497459100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.521782900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.546680900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.577380800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.607259600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.630105200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.660339900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.685162400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.710281200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.740013300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.763624900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.788421900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.819319800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.843097600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.871597900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.898015400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.921506900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.945746700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.971115
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:39.994552600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.017635100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.048202400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.072565900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.096577
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.117575300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.157599300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.182382600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.206604200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.230361700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.254924100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.278363600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.305643900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.333365100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.363096600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.383309900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.403822500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.424655300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.457672400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.477705
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.507538100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:40.530764500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:41.038756400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:41.078814300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:41.098246600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:41.138245900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:41.163942700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:41.203784200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:44.974355600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:52:44.983658900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:03.059912100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:03.902590800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.165163700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.313783300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.598306700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.629613300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.653540800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.676975600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.700014700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.724459800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.745672800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.768909300
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.790222400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.813435400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.836100200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.860042800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.882009400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.910317100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.935456800
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.962896900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:04.990086500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.011795700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.033438700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.058190500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.080935
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.102253500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.124519400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.148092600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.175863
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.199048200
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.222493500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.245704700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.270869700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.290541900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.442638100
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:05.583567500
+Username: florinrafiliu; Action: UPDATE; Date:2025-05-03T18:53:15.159028500
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:15.196258400
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:15.196746900
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:16.932583700
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:53:17.134424
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:54:31.348413600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:54:31.348413600
+Username: florinrafiliu; Action: READ; Date:2025-05-03T18:54:31.467413800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:33:57.763400100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:08.803271200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:10.226044300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:11.461710800
+Username: florinrafiliu; Action: CREATE; Date:2025-05-04T13:34:41.315043200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:41.338276500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:45.911915300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.022281500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.196205600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.244644400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.269095800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.299216700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.325853300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.326250200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.359782200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.377797100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.400323400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.426657600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.450958600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.481219500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.504665100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.535736500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.559695900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.584051900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.608756
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.636512200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.669041800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.693206100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.714870200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.735465900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.765939900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.784565800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.807659100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.838735700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.857633400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.881711900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.915028
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.941762900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:46.972090200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.002414900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.026451200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.059479500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.080901200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.111199800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.134182700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.159146900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.183204400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.204645
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.230723700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.250755200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.271541600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.295120200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.323431100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.342642600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.365818
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.390438900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.412010300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.434759400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.456576900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.479475900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.498323800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.528526200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.551426700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.578046200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.602267500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.626596600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.644955300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.674884500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.697974700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.720745300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.753643200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.777859800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.802804900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.802804900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.827367300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.850704300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.871525100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.894802800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.920750700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.953688400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:47.972480600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:48.123429900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:48.240901300
+Username: florinrafiliu; Action: UPDATE; Date:2025-05-04T13:34:59.734074400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:59.772532600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:34:59.774874400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:04.721477700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:04.775583600
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:05.020068400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:05.058288900
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:05.643738300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:05.676734300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:06.769305500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:06.772368400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:07.442210
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:07.485248600
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:07.969237500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:08.007868500
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:08.320888
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:08.354378100
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:08.678431300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:08.709244900
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:09.302357900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:09.345515700
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:09.641921700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:09.675529400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T13:35:10.078088100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T13:35:10.107545300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:43.749289200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:53.203289200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:53.258185800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:54.725677700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:54.853924800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:54.984171500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.223968200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.324319100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.725295400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.752167200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.777105700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.795667800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.813710400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.820872800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.854455900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.873099200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.891554900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.909136700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.926919300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.946435800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.962838
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:55.982343900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.001916800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.022389100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.041669800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.060876700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.079459700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.098874800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.120116
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.136414400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.155869300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.175701600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.195583500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.216140300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.234342200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.256190900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.275602500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.294822
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.314270900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.334016800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.357622
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.378592400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.397706100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.415430700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.433279600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.452702
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.470269700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.488997700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.509242900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.529049400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.549039500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.559716500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.693708
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:06:56.833496800
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:03.884011100
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:55.515682400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:55.908109700
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:56.247901600
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:58.040696300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:58.197476
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:58.314132
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:58.519221500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:58.848865500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.022596100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.083284500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.100606100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.118423700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.136223800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.136990900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.161718600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.181515800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.200470800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.218516800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.236139500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.253904300
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.272657400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.290637800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.308438800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.327353200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.344853200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.364547300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.385173800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.410032300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.430171200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.448576400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.466877300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.487339800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.508503500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.527637100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.544986300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.564313800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.585119400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.603314100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.630527
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.649845700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.669921600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.689054200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.709243500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.728344400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.747716900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.768837900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.788524800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.808599300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.833628800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.855784
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.875084100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.894077200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.922280400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.940894200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.960718700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:11:59.980128200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.001124500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.021495700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.044400700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.066500300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.087091
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.108925400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.128426300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.153486800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.173869700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.193356400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.212185800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.230280600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.249418400
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.268910100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.288682500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.309941100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.336747900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.372825900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.392875300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.413717700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.433330500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.452563800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.471722
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.489214500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.509650500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.530381800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.549913400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.569342700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.584830300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.604358900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.623465600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.634105700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.651507800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.669074400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.686474500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.702226700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.719627500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.736675400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.755118
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.762487500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:00.942500300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:12:01.057769400
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:33.955369200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:33.955369200
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.400604200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.553865600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.705569400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.738505600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.758290100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.774620500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.785621
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.816345300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.832961
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.851082700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.871093600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.898039800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.918074600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.939463400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.940483300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.968562100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:36.987329200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.013300700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.044292300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.075292
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.098301500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.122300700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.144444700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.164565900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.196515700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.215657700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.235733200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.265349200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.285543600
+Started analyze
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.309299300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.330836400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.351502600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.370152800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.378794800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.396935800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.414841700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.433593200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.451770900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.471167800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.494767900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.513544200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.535942100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.555338500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.573884800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.594546200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.612431400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.633535100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.651862200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.673774400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.695272700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.713163500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.732667800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.752546300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.772963800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.791704900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.811350800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.830792
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.849694600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.867355400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.887011200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.896126
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.919097300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.936959200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.950707700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:37.981308700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:14:38.011882100
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Monitored username:florinrafiliu
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Started analyze
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.041699
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.143098800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.300490900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.327136600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.344657900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.363973500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.367311300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.395090400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.411036100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.429527700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.447669200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.466797300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.484096500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.502306800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.520071200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.538433300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.556669
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.575796
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.594259800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.612179600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.630712500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.648393100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.672316600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.676322
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.694322300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.712559100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.730853700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.740100300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.757297800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.775309400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.793796800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.811141800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.829213300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.847285300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.865478300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.883755900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.902285600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.920251400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.938513500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.957247400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.974865100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:43.993290100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.011453700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.029240900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.047718600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.065611500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.087635400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.107034200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.126074200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.145970800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.165129200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.185668
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.207274900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.226707300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.246068600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.263569100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.286086900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.305474500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.323083300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.341324900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.357463100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.376109500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.395174900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.413901600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.435581100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.452030300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.471330600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.489661200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.508434300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.527095200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.545513500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.564644700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.582654900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.601973600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.622467400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.648918700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.667692
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.686442200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.706675300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.725615300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.744262100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.762569100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.782339700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.800524300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.824319600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.855335100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.877702
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.896171700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.914423300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.933161400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.952322500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.970712300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:44.989055100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.007730800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.026058800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.045174700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.063357300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.087697600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.106706900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.128871200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.148331100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.167114500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.185918
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.204570700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.223009
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.242559
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.261947500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.282317300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.300714700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.319014500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.336632900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.353303800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.371972900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.389196900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.398782200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.418517400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.436627800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.455360700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.473306500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.491922800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.510412700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.527565800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.546568
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.565115
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.583670900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.603310400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.622406100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.642001400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.668695400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.686984400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.703703
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.720445500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.738378100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.756387800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.774542400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.792482100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.810838300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.829141200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.847419900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.865345800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.884605400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.903668100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.908673600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.936327700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.952111100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.967292
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:45.998872900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:21:46.047538500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:14.853908400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.024991800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.183360200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.212029900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.229261100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.248047
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.265751800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.284752200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.308739200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.326271500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.345063800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.357857700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.374653
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.389793600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.406269300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.423315200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.441273300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.459373100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.477643600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.496129500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.514076200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.531825500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.550281200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.568853
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.593126300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.611509800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.630668100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.649165700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.668226600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.686661400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.705112500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.723490800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.742545600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.763942500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.783321600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.802091200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.819448500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.837514400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.855803500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.874308400
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.893771600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.911879100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.932240700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.953171600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.971580700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:15.990058600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.008677300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.025908500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.044348
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.061806600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.079926100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.098613400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.117044400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.135516400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.154072100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.172124200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.190975500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.209121600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.227868900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.244921400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.263032700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.280176700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.297311300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.316715600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.336417900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.354297800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.365387800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.394100800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.412119600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.429750800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.447062400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.464380
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.481810700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.498750800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.516448100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.533859
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.551460900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.569272600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.586591300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.604760100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.624888
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.642764100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.660545300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.677999900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.695822200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.714459500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.735024400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.750228900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.768193500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.786577800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.804561400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.822808800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.840761
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.861696800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.871770400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.889653100
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.908227600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.931286900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.935294
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:16.988927700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T14:23:17.012929
+Monitored username:florinrafiliu
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:33:59.509769800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:03.650621200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:03.660341300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:03.971849600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:03.971849600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:04.175443500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:04.292251500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:04.454161100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:04.681105900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:04.803612
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:04.938975300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.128095600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.287524800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.290510300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.466201800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.478326300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.638467
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.799861700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.799861700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:05.988835100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.175206200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.181566900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.340587700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.344827900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.534307400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.581410700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.710466800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.716680300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:06.896895
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.078110600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.268536
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.270271700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.436607400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.446191400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.623565
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.803016800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:07.804526100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.007253200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.196545900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.375052
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.562953300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.733051100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.747834300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:08.920739600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.114496100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.298051300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.448616100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.451040600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.624122500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.762861600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:09.765570200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:15.762015200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:15.890049800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.029830100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.083404900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.115350
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.153988500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.198441800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.246699600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.313526
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:16.963675400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.016875200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.046705200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.070811200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.099236900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.125178900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.149822600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.172318400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.191937
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.210558600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.234255700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.254965800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.276870100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.309502600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.330757200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.363686400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.385753800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.410136500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.434478800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.461062200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.489226300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.537704700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.568078900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.604191
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.631206700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.664898800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.695287100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.725561300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.755687400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.779820600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.810387
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.840649800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.864906800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.889097400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.913247700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.937432100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.958017700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:17.979605500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.004123200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.028289400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.052542400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.076839
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.101048100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.125214
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.149639100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.168636800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.198007700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.222277700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.252609600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.277839700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.300886
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.325222700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.349554900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.355361900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.375043600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.397977100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.422324200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.446513600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.464337900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.488901
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.513177700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.536720100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.561633400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.585875900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.610286500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.633939100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.658631400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.701063900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.731402
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.761585300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.780554300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.804050900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.822074
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.845251800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.864590700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.884435100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.910893200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.931365700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.955396700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:18.983302300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.007316900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.028159400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.048313700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.066657
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.088619100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.107553300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.127658200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.149311400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.168335600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.187766
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.210022200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.236417300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.258325400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.279323800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.300471600
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.325231400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.351142
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.374251800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.397796400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.416058400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.436549300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.458534100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.477203100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.500938100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.525121400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.550151600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.569415500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.598289900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.617498800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.617498800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.659497500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:34:19.696881900
+Monitored username:florinrafiliu
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:53.492168600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:53.571522900
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:53.786931700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:53.823248900
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:54.080001100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:54.118814600
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:54.380981600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:54.417088800
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:54.680188500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:54.707039500
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:54.835737100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:54.854217
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:54.980731800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:55.013611400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:55.283566700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:55.320397300
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:55.604493800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:55.649421600
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:55.926103400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:55.960112400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:56.235086400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:56.254096500
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:56.398937200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:56.431704700
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:56.726091100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:56.763501400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:57.053178800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:57.084989
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:57.211112900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:57.240569500
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:57.392719900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:57.423027
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:57.700980300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:57.736814800
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:58.011224500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:58.035458
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:58.350061100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:58.386830600
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:37:58.677445900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:58.713456500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:37:59.846253700
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:38:00.580178600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:00.600184
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:38:00.731725900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:00.766279400
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:38:01.059015700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:01.087466200
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:38:01.477128300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:01.510697900
+Username: florinrafiliu; Action: DELETE; Date:2025-05-04T16:38:01.812177800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:01.844932700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:32.645203
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:32.827328700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.109307500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.156822600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.176864800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.196488
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.215538900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.235233600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.254863500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.275842800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.292903700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.312636500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.329101600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.348108200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.371111
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.372194500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.398103800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.418574500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.433571400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.458027500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.478529800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.500564600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.520794
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.541050
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.561629300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.581200200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.597853700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.617952900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.638247600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.659594100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.680630300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.699858600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.719081200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.740154900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.761080800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.778586500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.799024500
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.819536400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.839535200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.860314500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.880210
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.902482700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.923206600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.942129200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.961120900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:33.983748700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.003701100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.025399500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.045847900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.067778500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.089108700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.108706500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.129576200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.151575100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.173427100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.194944500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.212130300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.233589600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.254622200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.276303
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.298473900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.315570400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.331344600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.354347600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.375012200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.394304300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.414945400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.435049100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.453521800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.473115600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.493244
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.517581400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.537823900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.557439500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.576838500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.595682200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.617571800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.636587300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.658044200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.678482200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.696875400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.719264700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.740032700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.760063600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.782371500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.802491
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.823928100
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.834925900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.858158200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.866095300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.887315
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.900381900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.952923700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:38:34.979500
+Monitored username:florinrafiliu
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:28.173678100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:32.829180700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:32.973627500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:33.131301700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:33.255376400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:33.406143400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:33.556540200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:33.708835500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:33.866107
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.011419200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.168756
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.315443400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.458225600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.605094100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.752216900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:34.908184400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:35.071268500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:35.235768700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:35.393076200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:35.556872800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:35.726490100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:35.889539400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:36.047290600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:36.223293800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:36.374773800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:36.543208800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:36.694358700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:36.865366200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.029921500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.198123500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.362001400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.525968600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.683781300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.832904900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:37.993397400
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:38.143627400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:38.313799900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:38.477392400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:38.642707500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:38.805561500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:38.966732200
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:39.149214800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:39.276295200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:39.440362500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:39.611071700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:39.766667700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:39.919892300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:40.076296100
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:40.234782200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:40.398729
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:40.574364500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:40.750228400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:40.919409
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:41.093909600
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:41.258773
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:41.426653700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:41.603106500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:41.786098200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:41.944043800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:42.126336100
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:42.300550400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:42.451240900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:42.636524900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:42.778776200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:42.942900700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:43.105593800
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:43.258920800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:43.426491200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:43.604916700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:43.779046700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:43.955349100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:44.111439600
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:44.282615900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:39:44.542467100
+Monitored username:florinrafiliu
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:03.599988100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:03.806641400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:03.963557400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:04.122652200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:04.275477300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:04.437495900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:04.602416800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:04.758654500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:04.909380600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:05.063088200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:05.231990300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:05.401156200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:05.558544
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:05.720783900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:05.884705
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:06.037736300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:06.196643800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:06.369006600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:06.541052700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:06.703708600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:06.869772800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:07.037164400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:07.206353200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:07.382288100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:07.520082200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:07.695568100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:07.873688700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:08.044253100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:08.223122700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:08.405180700
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:08.576420600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:08.753318400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:08.910118
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:09.071905900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:09.245418400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:09.399960400
+Monitored username:florinrafiliu
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:09.551453700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:09.713539700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:10.019156700
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:40:10.218803
+Monitored username:florinrafiliu
+Monitored username:florinrafiliu
+Username: user2; Action: READ; Date:2025-05-04T16:40:50.606255800
+Username: user2; Action: READ; Date:2025-05-04T16:40:56.713788500
+Username: user2; Action: READ; Date:2025-05-04T16:40:57.229942200
+Username: user2; Action: READ; Date:2025-05-04T16:40:57.515160900
+Username: user2; Action: READ; Date:2025-05-04T16:40:57.648423900
+Username: user2; Action: READ; Date:2025-05-04T16:40:57.779861600
+Username: user2; Action: READ; Date:2025-05-04T16:40:57.920775900
+Username: user2; Action: READ; Date:2025-05-04T16:40:58.061617700
+Username: user2; Action: READ; Date:2025-05-04T16:40:58.251738700
+Username: user2; Action: READ; Date:2025-05-04T16:40:58.406668
+Username: user2; Action: READ; Date:2025-05-04T16:40:58.539968
+Username: user2; Action: READ; Date:2025-05-04T16:40:58.850058700
+Username: user2; Action: READ; Date:2025-05-04T16:40:59.005298700
+Username: user2; Action: READ; Date:2025-05-04T16:40:59.145772500
+Username: user2; Action: READ; Date:2025-05-04T16:40:59.269959100
+Username: user2; Action: READ; Date:2025-05-04T16:40:59.561910700
+Username: user2; Action: READ; Date:2025-05-04T16:40:59.710412500
+Username: user2; Action: READ; Date:2025-05-04T16:40:59.865330300
+Username: user2; Action: READ; Date:2025-05-04T16:41:00.018450100
+Username: user2; Action: READ; Date:2025-05-04T16:41:00.370677400
+Username: user2; Action: READ; Date:2025-05-04T16:41:00.526865600
+Username: user2; Action: READ; Date:2025-05-04T16:41:00.672184700
+Username: user2; Action: READ; Date:2025-05-04T16:41:00.877642300
+Username: user2; Action: READ; Date:2025-05-04T16:41:01.211537200
+Username: user2; Action: READ; Date:2025-05-04T16:41:01.356046300
+Username: user2; Action: READ; Date:2025-05-04T16:41:01.509396400
+Username: user2; Action: READ; Date:2025-05-04T16:41:01.659518
+Username: user2; Action: READ; Date:2025-05-04T16:41:01.931538900
+Username: user2; Action: READ; Date:2025-05-04T16:41:02.072964200
+Username: user2; Action: READ; Date:2025-05-04T16:41:02.229126400
+Username: user2; Action: READ; Date:2025-05-04T16:41:02.368728300
+Username: user2; Action: READ; Date:2025-05-04T16:41:02.690489500
+Username: user2; Action: READ; Date:2025-05-04T16:41:02.835580700
+Username: user2; Action: READ; Date:2025-05-04T16:41:02.985909900
+Monitored username:user2
+Username: user2; Action: READ; Date:2025-05-04T16:41:03.113581700
+Username: user2; Action: READ; Date:2025-05-04T16:41:03.411900700
+Username: user2; Action: READ; Date:2025-05-04T16:41:03.569681500
+Username: user2; Action: READ; Date:2025-05-04T16:41:03.695834900
+Username: user2; Action: READ; Date:2025-05-04T16:41:03.840388
+Monitored username:user2
+Username: user2; Action: READ; Date:2025-05-04T16:41:04.186858500
+Username: user2; Action: READ; Date:2025-05-04T16:41:04.320112800
+Username: user2; Action: READ; Date:2025-05-04T16:41:04.482710300
+Monitored username:user2
+Monitored username:user2
+Username: user2; Action: READ; Date:2025-05-04T16:49:38.146367500
+Username: user2; Action: READ; Date:2025-05-04T16:49:38.149736700
+Username: user2; Action: READ; Date:2025-05-04T16:50:43.491278
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:50:49.760757400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:58:33.813366500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:58:33.814679900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:59:41.815924100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:59:41.825765
+Username: florinrafiliu; Action: READ; Date:2025-05-04T16:59:47.319269400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:00:18.750320
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:00:18.755320500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:00:22.152749400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:00:22.156737900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:00:59.327748500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:00:59.330751
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:01:34.512870600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:01:34.516617500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:02:17.940347100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:02:17.950224400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:02:21.820586400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:02:21.823583
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:05:45.776090600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:05:50.053314800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:05:50.057032400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:06:06.648844400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:06:06.653295500
+Username: undefined; Action: READ; Date:2025-05-04T17:06:10.140909
+Username: undefined; Action: READ; Date:2025-05-04T17:06:10.143908900
+Username: undefined; Action: READ; Date:2025-05-04T17:06:33.849699100
+Username: undefined; Action: READ; Date:2025-05-04T17:06:33.855699100
+Username: undefined; Action: READ; Date:2025-05-04T17:06:45.811138400
+Username: undefined; Action: READ; Date:2025-05-04T17:06:45.814434300
+Username: undefined; Action: READ; Date:2025-05-04T17:06:58.231587500
+Username: undefined; Action: READ; Date:2025-05-04T17:06:58.235957700
+Username: undefined; Action: READ; Date:2025-05-04T17:08:21.120289400
+Username: undefined; Action: READ; Date:2025-05-04T17:08:21.130590100
+Username: undefined; Action: READ; Date:2025-05-04T17:08:24.091726100
+Username: undefined; Action: READ; Date:2025-05-04T17:08:24.094726700
+Username: undefined; Action: READ; Date:2025-05-04T17:08:39.377539500
+Username: undefined; Action: READ; Date:2025-05-04T17:08:39.384602100
+Username: undefined; Action: READ; Date:2025-05-04T17:08:54.022165
+Username: undefined; Action: READ; Date:2025-05-04T17:08:54.026474
+Username: undefined; Action: READ; Date:2025-05-04T17:09:32.817877200
+Username: undefined; Action: READ; Date:2025-05-04T17:09:32.829579900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:09:36.449694200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:09:36.453129200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:10:00.013137
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:10:00.020191200
+Username: user; Action: READ; Date:2025-05-04T17:10:11.877263300
+Username: user; Action: READ; Date:2025-05-04T17:10:11.880268500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:10:20.978969900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:10:20.981937100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:10:24.950237300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:10:24.954605500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:07.870504800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:07.872543200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:09.495833900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:09.501701200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:13.635428500
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:13.636429100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:18.750009
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:18.751463900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:23.293772
+Username: user; Action: READ; Date:2025-05-04T17:14:32.086516200
+Username: user; Action: READ; Date:2025-05-04T17:14:32.088526300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:14:38.416425600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:15:29.565624100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:26:52.259345800
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:27:38.801265400
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:31:48.093600200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:31:49.193695
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:33:10.844243100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:33:10.853505100
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:33:20.189682
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:33:20.192865900
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:33:56.328769300
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:34:25.356723200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:34:25.360724200
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:34:47.454158
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:34:47.455627600
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:34:57.154469
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:34:57.160659100
+Username: user; Action: READ; Date:2025-05-04T17:36:28.639184
+Username: user; Action: READ; Date:2025-05-04T17:36:30.488674500
+Username: user; Action: READ; Date:2025-05-04T17:36:30.622823200
+Username: user; Action: READ; Date:2025-05-04T17:36:30.749916600
+Username: user; Action: READ; Date:2025-05-04T17:36:30.881747700
+Username: user; Action: READ; Date:2025-05-04T17:36:31.008503300
+Username: user; Action: READ; Date:2025-05-04T17:36:31.139997200
+Username: user; Action: READ; Date:2025-05-04T17:36:31.282612400
+Username: user; Action: READ; Date:2025-05-04T17:36:31.427160100
+Username: user; Action: READ; Date:2025-05-04T17:36:31.572565400
+Username: user; Action: READ; Date:2025-05-04T17:36:31.727678300
+Username: user; Action: READ; Date:2025-05-04T17:36:31.863910800
+Username: user; Action: READ; Date:2025-05-04T17:36:32.009413200
+Username: user; Action: READ; Date:2025-05-04T17:36:32.152030700
+Username: user; Action: READ; Date:2025-05-04T17:36:32.311486500
+Username: user; Action: READ; Date:2025-05-04T17:36:32.469716900
+Username: user; Action: READ; Date:2025-05-04T17:36:32.632925700
+Username: user; Action: READ; Date:2025-05-04T17:36:32.788797400
+Username: user; Action: READ; Date:2025-05-04T17:36:32.941211800
+Username: user; Action: READ; Date:2025-05-04T17:36:33.093638300
+Username: user; Action: READ; Date:2025-05-04T17:36:33.257199700
+Username: user; Action: READ; Date:2025-05-04T17:36:33.415085
+Username: user; Action: READ; Date:2025-05-04T17:36:33.573216500
+Username: user; Action: READ; Date:2025-05-04T17:36:33.742248600
+Username: user; Action: READ; Date:2025-05-04T17:36:33.900301700
+Username: user; Action: READ; Date:2025-05-04T17:36:34.063760200
+Username: user; Action: READ; Date:2025-05-04T17:36:34.224371300
+Username: user; Action: READ; Date:2025-05-04T17:36:34.359315400
+Username: user; Action: READ; Date:2025-05-04T17:36:34.524866900
+Username: user; Action: READ; Date:2025-05-04T17:36:34.685745600
+Username: user; Action: READ; Date:2025-05-04T17:36:34.837932100
+Username: user; Action: READ; Date:2025-05-04T17:36:35.020911900
+Monitored username:user
+Username: user; Action: READ; Date:2025-05-04T17:36:35.178903200
+Username: user; Action: READ; Date:2025-05-04T17:36:35.326875700
+Username: user; Action: READ; Date:2025-05-04T17:36:35.496472900
+Username: user; Action: READ; Date:2025-05-04T17:36:35.655283300
+Username: user; Action: READ; Date:2025-05-04T17:36:35.809031600
+Username: user; Action: READ; Date:2025-05-04T17:36:35.979588800
+Monitored username:user
+Username: user; Action: READ; Date:2025-05-04T17:36:36.137061400
+Username: user; Action: READ; Date:2025-05-04T17:36:36.292934600
+Username: user; Action: READ; Date:2025-05-04T17:36:36.462336400
+Username: user; Action: READ; Date:2025-05-04T17:36:36.602654100
+Username: user; Action: READ; Date:2025-05-04T17:36:36.757968900
+Username: user; Action: READ; Date:2025-05-04T17:36:36.904855300
+Username: user; Action: READ; Date:2025-05-04T17:36:37.045179500
+Monitored username:user
+Username: user; Action: READ; Date:2025-05-04T17:36:37.189017500
+Monitored username:user
+Monitored username:user
+Username: florinrafiliu; Action: READ; Date:2025-05-04T17:36:40.531176700
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:22:25.807015400
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:22:29.054196600
+Username: florinrafiliu; Action: DELETE; Date:2025-05-05T10:22:34.823610600
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:22:34.884351
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:22:59.953439400
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:23:00.654060800
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:23:01.252383400
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:23:01.725064900
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:27:25.332315900
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:27:32.956312900
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:27:32.958680
+Username: user3; Action: READ; Date:2025-05-05T10:28:40.296724300
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.119107300
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.253728700
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.392690900
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.524040300
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.647313900
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.760318800
+Username: user3; Action: READ; Date:2025-05-05T10:28:50.888645400
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.003247500
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.130568900
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.357544700
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.495767600
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.634331300
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.774060
+Username: user3; Action: READ; Date:2025-05-05T10:28:51.914995
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.053429600
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.191168800
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.342085400
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.489566200
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.641342200
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.790875700
+Username: user3; Action: READ; Date:2025-05-05T10:28:52.937594
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.087330200
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.240737
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.392267200
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.542275400
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.689131
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.841491400
+Username: user3; Action: READ; Date:2025-05-05T10:28:53.996739200
+Username: user3; Action: READ; Date:2025-05-05T10:28:54.144123900
+Username: user3; Action: READ; Date:2025-05-05T10:28:54.293673200
+Username: user3; Action: READ; Date:2025-05-05T10:28:54.447492100
+Username: user3; Action: READ; Date:2025-05-05T10:28:54.596652200
+Username: user3; Action: READ; Date:2025-05-05T10:28:54.754914400
+Username: user3; Action: READ; Date:2025-05-05T10:28:54.929832300
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.030283700
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.093396400
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.163349900
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.242219
+Monitored username:user3
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.324098
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.411412900
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.499595
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.577985
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.656890100
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.742249700
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.815102900
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.881346400
+Username: user3; Action: READ; Date:2025-05-05T10:28:55.979154800
+Username: user3; Action: READ; Date:2025-05-05T10:28:56.041479800
+Username: user3; Action: READ; Date:2025-05-05T10:28:56.142500200
+Username: user3; Action: READ; Date:2025-05-05T10:28:56.228911800
+Monitored username:user3
+Monitored username:user3
+Username: florinrafiliu; Action: READ; Date:2025-05-05T10:29:15.564414300
